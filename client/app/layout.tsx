@@ -9,8 +9,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Onion - Food Ordering App",
-  description: "Order fresh, delicious meals from your favorite local restaurants with Onion. Simple ordering, quick delivery, pure satisfaction.",
+  title: "Fresh Rush - Food Ordering App",
+  description: "Order fresh, delicious meals from your favorite local restaurants with Fresh Rush. Simple ordering, quick delivery, pure satisfaction.",
 };
 
 export default function RootLayout({
